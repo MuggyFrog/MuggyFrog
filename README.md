@@ -2,7 +2,6 @@
 - 👀 I’m interested in ____
 - 🌱 I’m currently learning Accouting 
 - 💞️ I’m looking to collaborate on ______
-- Contact: Isntagram: rixsiboyevv.b
 
 <!---
 MuggyFrog/MuggyFrog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
